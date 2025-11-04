@@ -347,10 +347,6 @@ For questions or issues:
 3. Examine feature importance explanations
 4. Use the prediction dashboard for insights
 
-## Screenshots
-
-_This section removed — add screenshots after deployment in `screenshots/` if desired._
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
