@@ -347,29 +347,9 @@ For questions or issues:
 3. Examine feature importance explanations
 4. Use the prediction dashboard for insights
 
-## 📸 Screenshots
+## Screenshots
 
-*Add screenshots of your application here once deployed*
-
-### Main Dashboard
-- Data overview with population trends
-- Species distribution maps
-- Risk assessment visualizations
-
-### ML Training Interface
-- Model comparison and selection
-- Performance metrics
-- Training progress indicators
-
-### Prediction Dashboard
-- Interactive parameter inputs
-- Real-time predictions
-- 12-month forecasts
-
-### Insights & Recommendations
-- Risk hotspot maps
-- Population decline alerts
-- Conservation action recommendations
+_This section removed — add screenshots after deployment in `screenshots/` if desired._
 
 ## 🤝 Contributing
 
